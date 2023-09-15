@@ -93,7 +93,7 @@ figure {
 }
 
 img {
-    border-style: none
+    border-radius: 8px;
 }
 
 code,kbd,pre,samp {

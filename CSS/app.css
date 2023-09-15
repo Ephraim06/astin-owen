@@ -246,7 +246,7 @@ hr {
 
 .w3-image {
     max-width: 100%;
-    height: auto
+    height: auto;
 }
 
 img {
@@ -1758,4 +1758,12 @@ a {
 
 .astin-small {
     opacity: 0.2;
+}
+
+.w3-image {
+    border-radius: 10px;
+}
+
+.social-icon {
+    padding: 25px;
 }

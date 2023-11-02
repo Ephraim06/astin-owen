@@ -162,7 +162,7 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 }
 
 button {
-    border-radius: 4px;
+    border-radius: 5px !important;
 }
 
 fieldset {
@@ -1794,4 +1794,5 @@ a {
 
 .social-icon {
     padding: 25px;
+    color: #535252;
 }
